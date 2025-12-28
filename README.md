@@ -12,19 +12,19 @@ For the past 15 years, `alastor1729` has been a Senior Backend Engineer (mainly 
 
 ---
 
-Overall, `alastor1729` has:
+Overall, `alastor1729 (R.W.)` has:
 
-- 10 Years of Professional Scala 2.12 experience:
+- 10 Years and 1 Month of Professional `Scala 2.12 experience:`
   - 24 months of Cats / FP Cats Effect / FS2 / http4s / doobie JDBC layer;
-  - 26 months of Lightbend Akka-Actors-toolkit library;
-  - 70 months of Apache Spark experience (Spark version 3.5.0).
+  - 26 months of Lightbend Akka-Actors-toolkit-library;
+  - 71 months of Apache Spark experience (Spark version 3.5.0)
 
 <br>
 <br>
 
 - 7 Years and 4 Months of SBT experience with SDKMAN-CLI-tool;
-- 6 Years of Professional Apache Maven experience;
-- 5 Years and 7 Months of Python / PySpark experience;
+- 6 Years and 1 Month of Professional Apache Maven experience;
+- 6 Years of Python / PySpark experience;
 - 4 Years and 6 Months of Professional Java 6 / 8 experience.
 
 <br>
@@ -37,7 +37,7 @@ Overall, `alastor1729` has:
 <br>
 
 - 15 years of working with RDBMS (specifically PostgreSQL, MySQL, Oracle Database, Apache Spark SQL, Microsoft SQL Server, T-SQL, SQLite).
-- 14 years of Bash Script / Shell Script work experience.
+- 15 years of Bash Script / Shell Script work experience.
 - 14 years of Professional JSON && CSV experience.
 - 14 years of RESTful APIs design & development experience.
 
@@ -45,8 +45,8 @@ Overall, `alastor1729` has:
 
 - 12 years of AWS && Azure cloud-based-infrastructure experience:
   - Azure SQL-Managed-Instances;
-  - Azure Data Lake Storage Gen2 (ADLS Gen2);
-  - Azure Cosmos DB && Azure Storage Explorer.   
+  - Azure Data Lake Storage Gen2 `(ADLS Gen2);`
+  - Azure Cosmos DB && Azure Storage Explorer && Delta Lake.   
 
 <br>
 <br>
