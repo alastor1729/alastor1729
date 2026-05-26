@@ -6,7 +6,7 @@
 
 ---
 
-For the past 15 years, `alastor1729` has been a Senior Backend Engineer (mainly in the Scala && Python programming ecosystem) and Senior Data Engineer.
+For the past 16 years, `alastor1729` has been a Senior Backend Engineer (mainly in the Scala && Python programming ecosystem) and Senior Data Engineer.
 
 <br>
 
@@ -14,17 +14,17 @@ For the past 15 years, `alastor1729` has been a Senior Backend Engineer (mainly 
 
 Overall, `alastor1729 (R.W.)` has:
 
-- 10 Years and 1 Month of Professional `Scala 2.12 experience:`
+- 10 Years and 3 Month of Professional `Scala 2.12 experience:`
   - 24 months of Cats / FP Cats Effect / FS2 / http4s / doobie JDBC layer;
-  - 26 months of Lightbend Akka-Actors-toolkit-library;
-  - 71 months of Apache Spark experience (Spark version 3.5.0)
+  - 26 months of Lightbend-Akka-Actors-toolkit-library;
+  - 73 months of Apache Spark Scala-delvelopment-experience (Spark version 3.5.0)
 
 <br>
 <br>
 
 - 7 Years and 4 Months of SBT experience with SDKMAN-CLI-tool;
-- 6 Years and 1 Month of Professional Apache Maven experience;
-- 6 Years of Python / PySpark experience;
+- 6 Years and 3 Month of Professional Apache Maven experience;
+- 6 Years and 2 Months of Python / PySpark experience;
 - 4 Years and 6 Months of Professional Java 6 / 8 experience.
 
 <br>
@@ -43,7 +43,7 @@ Overall, `alastor1729 (R.W.)` has:
 
 <br>
 
-- 12 years of AWS && Azure cloud-based-infrastructure experience:
+- 13 years of AWS && Azure cloud-based-infrastructure experience:
   - Azure SQL-Managed-Instances;
   - Azure Data Lake Storage Gen2 `(ADLS Gen2);`
   - Azure Cosmos DB && Azure Storage Explorer && Delta Lake.   
@@ -51,12 +51,12 @@ Overall, `alastor1729 (R.W.)` has:
 <br>
 <br>
 
-- 12 years of distributed-system-design, CI/CD principle, and microservices architecture experience within different US E-commerce Ecosystems.
+- 13 years of distributed-system-design, CI/CD principle, and microservices architecture experience within different US E-commerce Ecosystems.
 
 <br>
 
-- 7 years of Databricks Data Engineering (with Spark UI) experience:
-  - 2 years of AWS Databricks experience;
+- 8 years of Databricks Data Engineering (with Spark UI) experience:
+  - 3 years of AWS Databricks experience;
   - 5 years of Azure Databricks experience (with DBR-Unity-Catalog Training).
 
 <br>
