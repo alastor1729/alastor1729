@@ -6,7 +6,7 @@
 
 ---
 
-For the past 16 years, `alastor1729` has been a Senior Backend Engineer (mainly in the Scala && Python programming ecosystem) and Senior Data Engineer.
+For the past 17 years, `alastor1729` has been a Senior Backend Engineer (mainly in the Scala && Python programming ecosystem) and Senior Data Engineer.
 
 <br>
 
@@ -24,26 +24,26 @@ Overall, `alastor1729 (R.W.)` has:
 
 - 7 Years and 4 Months of SBT experience with SDKMAN-CLI-tool;
 - 6 Years and 3 Month of Professional Apache Maven experience;
-- 6 Years and 2 Months of Python / PySpark experience;
+- 6 Years and 10 Months of Python / PySpark experience;
 - 4 Years and 6 Months of Professional Java 6 / 8 experience.
 
 <br>
 <br>
 
-- 15 years of Linux OS && MacOS experience.
-- 15 years of Professional Git / GitHub Enterprise / PR Reviews.
-- 15 years of working within the Agile / Scrum / Kanban environments.
+- 16 years of Linux OS && MacOS experience.
+- 16 years of Professional Git / GitHub Enterprise / PR Reviews.
+- 16 years of working within the Agile / Scrum / Kanban environments.
 
 <br>
 
 - 15 years of working with RDBMS (specifically PostgreSQL, MySQL, Oracle Database, Apache Spark SQL, Microsoft SQL Server, T-SQL, SQLite).
 - 15 years of Bash Script / Shell Script work experience.
-- 14 years of Professional JSON && CSV experience.
-- 14 years of RESTful APIs design & development experience.
+- 15 years of Professional JSON && CSV experience.
+- 15 years of RESTful APIs design & development experience.
 
 <br>
 
-- 13 years of AWS && Azure cloud-based-infrastructure experience:
+- 14 years of AWS && Azure cloud-based-infrastructure experience:
   - Azure SQL-Managed-Instances;
   - Azure Data Lake Storage Gen2 `(ADLS Gen2);`
   - Azure Cosmos DB && Azure Storage Explorer && Delta Lake.   
@@ -55,9 +55,9 @@ Overall, `alastor1729 (R.W.)` has:
 
 <br>
 
-- 8 years of Databricks Data Engineering (with Spark UI) experience:
-  - 3 years of AWS Databricks experience;
-  - 5 years of Azure Databricks experience (with DBR-Unity-Catalog Training).
+- 7 years of Databricks Data Engineering (with Spark UI) experience:
+  - 4 years of AWS Databricks experience;
+  - 3 years of Azure Databricks experience (with Databricks-Unity-Catalog Training).
 
 <br>
 <br>
