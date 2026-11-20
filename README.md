@@ -6,7 +6,7 @@
 
 ---
 
-For the past 17 years, `alastor1729` has been a Senior Backend Engineer (mainly in the Scala && Python programming ecosystem) and Senior Data Engineer.
+For the past 16 years, `alastor1729` has been a Senior Backend Engineer (mainly in the Scala && Python programming ecosystem) and Senior Data Platform Engineer.
 
 <br>
 
@@ -22,9 +22,9 @@ Overall, `alastor1729 (R.W.)` has:
 <br>
 <br>
 
+- 8 Years and 1 Month of Python / PySpark work experience;
 - 7 Years and 4 Months of SBT experience with SDKMAN-CLI-tool;
-- 6 Years and 3 Month of Professional Apache Maven experience;
-- 6 Years and 10 Months of Python / PySpark experience;
+- 6 Years and 5 Month of Professional Apache Maven experience;
 - 4 Years and 6 Months of Professional Java 6 / 8 experience.
 
 <br>
@@ -36,14 +36,14 @@ Overall, `alastor1729 (R.W.)` has:
 
 <br>
 
-- 15 years of working with RDBMS (specifically PostgreSQL, MySQL, Oracle Database, Apache Spark SQL, Microsoft SQL Server, T-SQL, SQLite).
-- 15 years of Bash Script / Shell Script work experience.
-- 15 years of Professional JSON && CSV experience.
-- 15 years of RESTful APIs design & development experience.
+- 16 years of working with RDBMS (specifically PostgreSQL, MySQL, Oracle Database, Apache Spark SQL, Microsoft SQL Server, T-SQL, SQLite).
+- 16 years of Bash Script / Shell Script work experience.
+- 16 years of Professional JSON && CSV experience.
+- 16 years of RESTful APIs design & development experience.
 
 <br>
 
-- 14 years of AWS && Azure cloud-based-infrastructure experience:
+- 15 years of AWS && Azure cloud-based-infrastructure experience:
   - Azure SQL-Managed-Instances;
   - Azure Data Lake Storage Gen2 `(ADLS Gen2);`
   - Azure Cosmos DB && Azure Storage Explorer && Delta Lake.   
@@ -51,7 +51,7 @@ Overall, `alastor1729 (R.W.)` has:
 <br>
 <br>
 
-- 13 years of distributed-system-design, CI/CD principle, and microservices architecture experience within different US E-commerce Ecosystems.
+- 14 years of distributed-system-design, CI/CD principle, and microservices architecture experience within different US E-commerce Ecosystems.
 
 <br>
 
